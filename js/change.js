@@ -36,10 +36,7 @@
         }
     })
 
-
-
-
-    let lerMais11 = document.getElementById('need1');
+/*  let lerMais11 = document.getElementById('need1');
     let lerMais12 = document.getElementById('need2');
     let lerMais13 = document.getElementById('need3');
 
@@ -49,6 +46,6 @@
         } else {
             lerMais11.text = "ler mais";
         }
-    })
+    })*/
 
 })()
