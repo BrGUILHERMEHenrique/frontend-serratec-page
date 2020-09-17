@@ -2,8 +2,7 @@
 
 ## ✍ Descrição
 ### Trabalho para o módulo de Front End essencial.
-## ✍ Link para acesso
-(aqui)
+
 ## Contribuidores
 :woman: <a href="https://github.com/Gabriela-Oliveira">Gabriela Oliveira</a></br>
 :boy: <a href="https://github.com/ciceromngr">Cícero Romão </a></br>
